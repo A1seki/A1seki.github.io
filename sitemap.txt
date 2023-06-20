@@ -1,3 +1,4 @@
+http://example.com/2023/06/20/SQL/
 http://example.com/2023/06/18/%E6%B5%8B%E8%AF%95/
 http://example.com/messageboard/index.html
 http://example.com/categories/index.html
